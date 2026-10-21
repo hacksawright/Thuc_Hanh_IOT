@@ -1,0 +1,3 @@
+__pycache__/
+*.csv
+device_state_log.txt
