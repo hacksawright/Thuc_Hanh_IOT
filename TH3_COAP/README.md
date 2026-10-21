@@ -1,8 +1,11 @@
 # Báo Cáo Thực Hành: Lập trình Python với giao thức CoAP
 
-## Thông tin sinh viên
-- **Họ tên:** Vu Thanh Loc
-- **Mã sinh viên:** B23DCCN494
+## Thông tin nhóm thực hiện
+| STT | Họ tên | Mã sinh viên |
+|-----|--------|--------------|
+| 1 | Nguyễn Đức Trung | B23DCCN858 |
+| 2 | Vũ Thành Lộc | B23DCCN494 |
+| 3 | Nguyễn Mạnh Vũ | B23DCCN944 |
 
 ## Môi trường
 - **Python:** 3.12
